@@ -1,7 +1,5 @@
-# Reflection
-
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gianluca Zurlo
+Sudent Email:  gzurlo@syr.edu
 
 ## Instructions
 
@@ -21,5 +19,6 @@ Examples:
 **Better Reflection** "I learned how to write while loops and their difference from for loops."   
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
-`--- Reflection Below This Line ---`
+--- Reflection Below This Line ---
+In this assignment, I learned how to integrate Streamlit with Pandas to create an interactive data exploration tool. Implementing file handling and dataframe manipulation in pandaslib.py helped reinforce my understanding of data processing, particularly using get_columns_of_type() and get_unique_values(). One challenge I faced was handling different file formats dynamically and ensuring the correct parsing of CSV, JSON, and XLSX files. I also found the Streamlit UI state management to be an area where I need more practice, particularly in handling user interactions like filtering and column selection efficiently. Moving forward, I would like to explore more advanced Streamlit components for better UI responsiveness and performance optimization.
 
